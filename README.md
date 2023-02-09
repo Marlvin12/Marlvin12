@@ -7,7 +7,7 @@
 **- 🌱 I’m currently learning Machine Learning and IOS Development**
 
 
-**- Proficient in Python,C++,Swift,JavaScript and TypeScript
+** Proficient in Python,C++,Swift,JavaScript and TypeScript**
 
 
 
