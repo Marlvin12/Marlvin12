@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-😄 I'm a programming aficionado with an undying love for Python 🐍. My zest for life comes from diving into complex problems and untangling them with creative, out-of-the-box solutions. When I'm not busy wrangling code, you can find me exploring new tech, cracking puzzles, and turning challenges into exciting adventures! Let's embark on this exhilarating journey together! 🚀🌟
+😄 I'm a programming aficionado with an undying love for Python 🐍. My zest for life comes from diving into complex problems and untangling them with creative, out-of-the-box solutions. When I'm not busy wrangling code, you can find me exploring new tech, cracking puzzles, and turning challenges into exciting adventures! Let's embark on this exhilarating journey together! 🚀🌟.
 
 Proficient in:
 
