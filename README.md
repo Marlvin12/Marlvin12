@@ -1,4 +1,5 @@
-![0002_fir-valley-drawing-minimal](https://github.com/Marlvin12/Marlvin12/assets/122947486/7ead58ad-9507-41f4-9e35-b6c4f48f739e)
+![0002_fir-valley-drawing-minimal](https://github.com/Marlvin12/Marlvin12/assets/122947486/22017810-7d63-4687-b0a0-3975a4dfd5f1)
+
 
 ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
