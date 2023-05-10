@@ -1,4 +1,5 @@
-![0002_fir-valley-drawing-minimal](https://github.com/Marlvin12/Marlvin12/assets/122947486/b7c7e9e7-adff-44c0-9678-39d51987422c)
+![0002_fir-valley-drawing-minimal](https://github.com/Marlvin12/Marlvin12/assets/122947486/7ead58ad-9507-41f4-9e35-b6c4f48f739e)
+
 
 
 ### Hi there 👋, I'm Marlvin Goremusandu! 🚀
