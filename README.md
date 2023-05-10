@@ -21,7 +21,9 @@ Proficient in:
 
 🎉 I'm a firm believer in the magic of collaboration and the fantastic outcomes that spring from joining forces with fellow developers in our vibrant community! 🌟 That's why GitHub is my go-to playground 🎢 for sharing exciting projects 🚀 and contributing to awe-inspiring open-source initiatives 🌐. My goal? To keep blossoming 🌱 as a programmer, soaking up wisdom 🧠 from others, and sharing the love ❤️ by giving back to the community. So, let's code together and make the digital world a better place! 🌈💻💫
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlvin12&show_icons=true&theme=THEME_NAME)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlvin12&show_icons=true&bg_color=050F2C&title_color=1F61E8&text_color=2EB67D&icon_color=F5C300&border_color=E01E5A)
+
+
 
 
 
