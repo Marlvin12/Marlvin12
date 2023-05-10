@@ -1,9 +1,5 @@
 ![0002_fir-valley-drawing-minimal](https://github.com/Marlvin12/Marlvin12/assets/122947486/7ead58ad-9507-41f4-9e35-b6c4f48f739e)
 
-
-
-### Hi there 👋, I'm Marlvin Goremusandu! 🚀
-
 ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
