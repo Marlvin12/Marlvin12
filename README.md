@@ -1,3 +1,4 @@
+wallpapers/0002_fir-valley-drawing-minimal.jpg
 ### Hi there 👋, I'm Marlvin Goremusandu! 🚀
 
 ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift&logoColor=white)
