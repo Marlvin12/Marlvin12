@@ -1,4 +1,5 @@
-wallpapers/0002_fir-valley-drawing-minimal.jpg
+![0068_desktop-vintage-technology-sunrays](https://github.com/Marlvin12/Marlvin12/assets/122947486/0f3e37a4-540c-4ba6-ab4a-92f2abcf7cc9)
+
 ### Hi there 👋, I'm Marlvin Goremusandu! 🚀
 
 ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift&logoColor=white)
