@@ -5,6 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
 😄 I'm a programming aficionado with an undying love for Python 🐍. My zest for life comes from diving into complex problems and untangling them with creative, out-of-the-box solutions. When I'm not busy wrangling code, you can find me exploring new tech, cracking puzzles, and turning challenges into exciting adventures! Let's embark on this exhilarating journey together! 🚀🌟
