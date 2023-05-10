@@ -1,4 +1,5 @@
-![0068_desktop-vintage-technology-sunrays](https://github.com/Marlvin12/Marlvin12/assets/122947486/0f3e37a4-540c-4ba6-ab4a-92f2abcf7cc9)
+![0002_fir-valley-drawing-minimal](https://github.com/Marlvin12/Marlvin12/assets/122947486/b7c7e9e7-adff-44c0-9678-39d51987422c)
+
 
 ### Hi there 👋, I'm Marlvin Goremusandu! 🚀
 
