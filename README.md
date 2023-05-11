@@ -25,8 +25,7 @@ Proficient in:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlvin12&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=8BD6E9&icon_color=1F6FEB&border_color=21262D)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub language count](https://img.shields.io/github/languages/count/Marlvin12/your-repo-name?style=flat-square)
-![GitHub Repo views](https://img.shields.io/github/search/Marlvin12/your-repo-name/goto?label=Repo%20views&style=flat-square)
+
 
 
 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/marlvingoremusandu)!
