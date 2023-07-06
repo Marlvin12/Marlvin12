@@ -21,12 +21,5 @@ Proficient in:
 
 🎉 I'm a firm believer in the magic of collaboration and the fantastic outcomes that spring from joining forces with fellow developers in our vibrant community! 🌟 That's why GitHub is my go-to playground 🎢 for sharing exciting projects 🚀 and contributing to awe-inspiring open-source initiatives 🌐. My goal? To keep blossoming 🌱 as a programmer, soaking up wisdom 🧠 from others, and sharing the love ❤️ by giving back to the community. So, let's code together and make the digital world a better place! 🌈💻💫
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlvin12&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=8BD6E9&icon_color=1F6FEB&border_color=21262D)
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/marlvingoremusandu)!
 
