@@ -1,5 +1,6 @@
 
-![marlvin_billionaire_a_programming_colourful_photo8k_2c129df0-7f68-4072-8224-2d53bdcb8323](https://github.com/Marlvin12/Marlvin12/assets/122947486/257af9c4-878b-4f9a-ae33-db1d5010b4eb)
+![marlvin_billionaire_a_programming_colourful_photo8k_2c129df0-7f68-4072-8224-2d53bdcb8323](https://github.com/Marlvin12/Marlvin12/assets/122947486/1bff07f6-5d51-4fb2-b757-8f0847a28d02)
+
 
 
 *Programming Languages*
