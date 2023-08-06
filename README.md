@@ -22,21 +22,35 @@
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+
 
 </p>
 
 
-😄 I'm a programming aficionado with an undying love for Python 🐍. My zest for life comes from diving into complex problems and untangling them with creative, out-of-the-box solutions. When I'm not busy wrangling code, you can find me exploring new tech, cracking puzzles, and turning challenges into exciting adventures! Let's embark on this exhilarating journey together! 🚀🌟.
 
-Proficient in:
 
-- Python 🐍
-- C++ ⚙️
-- Swift 🦉
-- JavaScript ⚡.
-- TypeScript 📘
+---
 
-🎉 I'm a firm believer in the magic of collaboration and the fantastic outcomes that spring from joining forces with fellow developers in our vibrant community! 🌟 That's why GitHub is my go-to playground 🎢 for sharing exciting projects 🚀 and contributing to awe-inspiring open-source initiatives 🌐. My goal? To keep blossoming 🌱 as a programmer, soaking up wisdom 🧠 from others, and sharing the love ❤️ by giving back to the community. So, let's code together and make the digital world a better place! 💻
+I am a dedicated software developer with a strong affinity for Python. My motivation stems from the process of addressing intricate challenges and devising innovative, strategic solutions. Inspired by the philosophy of Kaizen, I continuously seek avenues to enhance both myself and the projects I work on. Beyond the realm of code, my values resonate with the African principle of Ubuntu, emphasizing community, interconnectedness, and mutual respect. I believe that in understanding and uplifting each other, we pave the way for collective success.
+
+Technical Expertise:
+
+- Python
+- C++
+- Swift
+- JavaScript
+- TypeScript
+- Azure
+- TailwindCSS
+- Next.js
+
+I value the power of collaboration and believe that teamwork, grounded in the spirit of Ubuntu, often leads to superior results. GitHub serves as my primary platform for collaborative ventures and for contributing to open-source initiatives that hold significance. My overarching aim is to continually evolve as a software professional, absorbing knowledge from industry peers, and actively giving back to our global tech community. Let's unite in our endeavors to shape a more harmonious digital landscape.
+
+---
+
 
 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/marlvingoremusandu)!
 
