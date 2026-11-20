@@ -1,4 +1,5 @@
-<img width="736" height="413" alt="_ (80)" src="https://github.com/user-attachments/assets/73ca1b8a-0d08-4d8b-8c43-b195d22da934" />
+<img width="735" height="412" alt="Midjourney_  Painting depicts human and robotic hands reaching, commentary on AI_" src="https://github.com/user-attachments/assets/4a0ee443-7423-4e78-8fd3-b48649c6fc94" />
+
 
 
 # Marlvin Goremusandu
